@@ -1,0 +1,51 @@
+* {
+    margin: 1;
+    padding: 1;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d1d1b4;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: #c01666;
+    font-weight: bold;
+}
+
+
+.projeto:hover {
+    background-color: #c27aa2;
+}
+
+.projeto {
+    display: inline-block;
+    width: 45%;
+    margin: 2%;
+    background-color: #d1d1b4;
+    border: 2px solid #c01666;
+    text-align: left;
+    padding: 20px;
+    font-size: 16px;
+    box-sizing: border-box;
+    vertical-align: top;
+    transition: background-color 0.3s ease; 
+}
+
+h3 {
+    color: #c01666;
+}
+
+#habilidades ul li:nth-child(odd) {
+    background-color: #c27aa2; 
+    font-weight: bold;
+}
+
+p:first-letter {
+    font-size: 1.5em; 
+    font-weight: bold;
+    color: #c01666;
+}
