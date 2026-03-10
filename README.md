@@ -7,15 +7,15 @@ Este repositório contém os projetos e atividades da disciplina de **Desenvolvi
 
 ## 📅 Registro de Atividades
 
-### Atividade 02 (Aula 02/03) – Introdução ao HTML
+### Atividade 02 - Introdução ao HTML (Aula 02/03)
 * **Foco:** HTML5 Semântico (`<nav>`, `<article>`, `<footer>`), Meta tags e Favicon
 * **Organização:** Uso exclusivo de **caminhos relativos** para organização da estrutura de diretórios (`/css/`, `/imagens/`, etc.)
 * **-->** Conforme orientação em aula, as tags de mídia (vídeo/áudio) não foram implementadas nesta etapa
 
-### Atividade 2 (Aula 09/03) – Perfil Profissional Fictício com CSS
+### Atividade 2 - Perfil Profissional Fictício com CSS (Aula 09/03)
 * **Foco:** Estilização externa, Box Model (`border`, `padding`, `margin`) e Seletores Avançados
 * **Conceitos aplicados:** `display: inline-block`, pseudoclasse `:nth-child(odd)`, pseudoelemento `::first-letter` e efeitos de `hover`
-* **Arquivos:** `perfil.html` e `estilo.css`
+* **Arquivos:** `Atividade 2 - Perfil Profissional Fictício com CSS`, `perfil.html` e `estilo.css`
 > [!IMPORTANT] 
 > Os arquivos referentes à **Atividade 2 (09/03)** foram mantidos na raiz do repositório para preservar o histórico original de commit e horário de entrega.
 
